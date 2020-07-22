@@ -56,6 +56,11 @@
 <span><b><center>SQL</center></b></span> 
 <img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
 </td>
+
+<td align="center" width="20%">
+<span><b><center>BootStrap</center></b></span> 
+<img height=65px src="https://banner2.cleanpng.com/20180512/stw/kisspng-bootstrap-responsive-web-design-web-development-lo-5af676c04b0535.2749534815261016963073.jpg"> 
+</td>
 </tr>
 
 </tbody>
