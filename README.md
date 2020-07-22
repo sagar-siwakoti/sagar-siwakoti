@@ -60,4 +60,4 @@
 
 </tbody>
 </table>
-![Github stats](https://github-readme-stats.vercel.app/api?username=sagar-siwakoti&show_icons=true) ![Profile views](https://gpvc.arturio.dev/sagar-siwakoti)   <a href="https://twitter.com/intent/follow?screen_name=iam_sagar7&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/iam_sagar7?label=%40swyx&style=social"></a> 
+![Github stats](https://github-readme-stats.vercel.app/api?username=sagar-siwakoti&show_icons=true) 
