@@ -63,6 +63,11 @@
 <span><b><center>BootStrap</center></b></span> 
 <img height=65px src="https://banner2.cleanpng.com/20180512/stw/kisspng-bootstrap-responsive-web-design-web-development-lo-5af676c04b0535.2749534815261016963073.jpg"> 
 </td>
+
+<td align="center" width="20%">
+<span><b><center>TypeScript</center></b></span> 
+<img height=65px src="https://cdn.worldvectorlogo.com/logos/typescript.svg"> 
+</td>
 </tr>
 
 </tbody>
