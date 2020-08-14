@@ -72,4 +72,7 @@
 
 </tbody>
 </table>
-![Github stats](https://github-readme-stats.vercel.app/api?username=sagar-siwakoti&show_icons=true) 
+![Github stats]<br/>
+<a href="https://github-readme-stats.vercel.app/api?username=sagar-siwakoti">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar-siwakoti&show_icons=true&include_all_commits=true&theme=radical" alt="Sagar's github stats" />
+</a>
