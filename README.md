@@ -12,7 +12,7 @@
 
 * :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/sagar-siwakoti?tab=repositories)
 
-* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/sagar-siwakoti) :sparkler:
+* Connect with me on LinkedIn :fireworks: [LinkedIn Profile](https://www.linkedin.com/in/sagar-siwakoti) :sparkler:
 
 ## Tech Stack :computer:
 
