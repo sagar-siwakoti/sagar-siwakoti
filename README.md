@@ -17,6 +17,7 @@
 ## Tech Stack :computer:
 
 <br>
+These are the technology I am most comfortable with. 
 <table>
 <tbody>
  <tr>
