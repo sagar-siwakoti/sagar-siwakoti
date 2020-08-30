@@ -71,6 +71,25 @@ These are the technology I am most comfortable with.
 </td>
 </tr>
 
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>Material UI</center></b></span> 
+<img height=65px src="https://material-ui.com/static/logo.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>NodeJS</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Firebase</center></b></span> 
+<img height=65px src="https://firebase.google.com/images/brand-guidelines/logo-standard.png"> 
+</td>
+</tr>
+
+
 </tbody>
 </table>
 ![Github stats]<br/>
