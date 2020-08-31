@@ -6,7 +6,7 @@
 
 * I have done multiple projects ranging from the field of Devops , Backend to Web Application and Frontend :file_cabinet: .
 
-* I am currently brushing up my skills and plan to learn AWS and React Native .
+* I am currently brushing up my skills and plan to learn Flutter and React Native .
 
 * I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
 
