@@ -1,6 +1,6 @@
 <h1 align="center"> Hello There 👋 </h1>
 
-* I am [Sagar Siwakoti](https://www.linkedin.com/in/sagar-siwakoti/) :blush:	 . Currently I am a third year student from Tribhuvan University(TU) in Computer Science with specialization in Information Technology :satellite:
+* I am [Sagar Siwakoti](https://www.linkedin.com/in/sagar-siwakoti/) :blush:	 . Currently I am a third year student from Tribhuvan University(TU) in Computer Science with specialization in Information Technology (CSIT):satellite:
 
 * I am a Full Stack Web Developer Intern at @texasImaginlogy :toolbox:.
 
