@@ -101,6 +101,14 @@ These are the technology I am most comfortable with.
 <img height=65px src="https://expressjs.com/images/express-facebook-share.png"> 
 </td>
 
+<td align="center" width="20%">
+<span><b><center>Flutter</center></b></span> 
+<img height=65px src="<td align="center" width="20%">
+<span><b><center>Express JS</center></b></span> 
+<img height=65px src="https://expressjs.com/images/express-facebook-share.png"> 
+</td>
+</td>
+
 </tr>
 
 </tbody>
