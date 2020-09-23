@@ -103,10 +103,7 @@ These are the technology I am most comfortable with.
 
 <td align="center" width="20%">
 <span><b><center>Flutter</center></b></span> 
-<img height=65px src="<td align="center" width="20%">
-<span><b><center>Express JS</center></b></span> 
-<img height=65px src="https://expressjs.com/images/express-facebook-share.png"> 
-</td>
+<img height=65px src="https://cdn.dribbble.com/users/1622791/screenshots/11174104/flutter_intro.png"> 
 </td>
 
 </tr>
