@@ -2,7 +2,7 @@
 
 * I am [Sagar Siwakoti](https://www.linkedin.com/in/sagar-siwakoti/) :blush:	 . Currently I am a third year student from Tribhuvan University(TU) in Computer Science with specialization in Information Technology (CSIT):satellite:
 
-* I am a Full Stack Web Developer Intern at @texasImaginlogy :toolbox:.
+* I am a Full Stack Web Developer Intern at Smart Ideas Pvt. Ltd.(Hamro Patro) :toolbox:.
 
 * I have done multiple projects ranging from the field of Devops , Backend to Web Application and Frontend :file_cabinet: .
 
