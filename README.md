@@ -108,6 +108,12 @@ These are the technology I am most comfortable with.
 
 </tr>
 
+<tr>
+<td align="center" width="20%">
+<span><b><center>Next JS</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png"> 
+</td>
+</tr>
 </tbody>
 </table>
 ![My Github stats]<br/>
