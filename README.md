@@ -111,7 +111,7 @@ These are the technology I am most comfortable with.
 <tr>
 <td align="center" width="20%">
 <span><b><center>Next JS</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png"> 
+<img height=65px src="https://chrisbrownie.dev/blog/creating-a-completely-static-build-with-nextjs/nextjs.png"> 
 </td>
 </tr>
 </tbody>
